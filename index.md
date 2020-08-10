@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+Behavioral Questions: Question 1: Tell me about a time when… Situation: I was managing the creation of a new website that was supposed to launch in two weeks.
 
-You can use the [editor on GitHub](https://github.com/stephon518/Behavioral-Interview-Questions1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Task: One of our senior editors found a major bug in the code and he wanted to push back on the deadline, which I knew the company wouldn’t appreciate.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Action: I understand the editors push to move the deadline but I also knew the company has to have the website running on time. I didn’t want to push him and the team too hard but instead focused on finding out what they need that could help solve the situation. We created a list of things we could delay and work on after the launch and put the effort in fixing the bug to allow the launch – even if not in the most perfect way possible.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/stephon518/Behavioral-Interview-Questions1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Result: In the end, the team understood the priorities and we were able to work together to direct resources where they were needed. In the end, we launched the website on time, increasing company sales by 20% in the first week and we had to fully functional site up within 2 weeks of launch.
